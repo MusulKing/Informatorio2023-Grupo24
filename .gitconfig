@@ -1,0 +1,6 @@
+[user]
+	name = MusulKing
+	email = cristian.adr@hotmail.com
+[core]
+	editor = code --wait
+	autocrlf = True
